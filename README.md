@@ -144,7 +144,7 @@ The task was successfully registered in the target group and made available behi
 
 ### 8. Application Running Through the Application Load Balancer
 
-![NGINX Running Through ALB](assets/screenshots/nginx-running-alb.png)
+![NGINX Running Through ALB](assets/screenshots/nginx-running-ALB.png)
 
 The NGINX application was successfully accessed through the Application Load Balancer DNS endpoint.
 
